@@ -1,0 +1,23 @@
+## =======================
+## AWS Dependencies
+## =======================
+boto3==1.39.7
+
+## =======================
+## Core Dependencies
+pillow==11.3.0
+python-dotenv==1.1.1
+click==8.2.1
+
+## =======================
+## Pydantic Dependencies
+## =======================
+pydantic==2.11.7
+pydantic-settings==2.10.1
+
+## =======================
+## Testing Dependencies
+## =======================
+pytest==8.4.1
+pytest-mock==3.14.1
+pytest-cov==6.2.1
