@@ -1,6 +1,6 @@
-# S3 Image Converter
+# Image Converter
 
-A production-grade tool for converting images in S3 buckets to WebP format with parallel processing, comprehensive logging and robust error handling.
+A tool for converting images in local or S3 buckets to any format.
 
 ## Features
 
